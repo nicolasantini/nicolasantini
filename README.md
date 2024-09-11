@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nicolasantini
+- 👀 I’m interested in FOSS, linux OS (Arch)
+- 📫 How to reach me: kens@autistici.org
